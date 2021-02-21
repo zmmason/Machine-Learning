@@ -1,0 +1,22 @@
+breast-cancer-wisconsin.data.csv
+['uniformity-of-cell-size', 0.927038626609442]
+['uniformity-of-cell-shape', 0.9227467811158798]
+['bland-chromatin', 0.9070100143061517]
+['single-epithelial-cell-size', 0.8755364806866953]
+['normal-nucleoli', 0.8669527896995708]
+['marginal-adhesion', 0.8640915593705293]
+['clump-thickness', 0.8612303290414879]
+['mitoses', 0.7896995708154506]
+['bare-nuclei', 0.7138769670958512]
+
+Score:  0.9628040057224606
+Score:  0.9691629955947136
+Accuracy 0.9387755102040817 
+
+[[148   8]
+ [  7  82]]
+False positive rate: (predicting malignant while benign) 0.05128205128205128
+False negative rate: (predicting benign while malignant) 0.07865168539325842 
+
+Largest contribution feature:
+clump-thickness, 0.8262703146152998
